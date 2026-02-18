@@ -1,0 +1,20 @@
+# Java
+*.class
+bin/
+
+# C y COBOL
+*.o
+*.exe
+*.c.h
+src/main/cobol/core.c
+src/main/cobol/com_nexus_bridge_CobolBridge.h
+
+# Librerías nativas
+lib/*.dll
+lib/*.so
+lib/*.dylib
+
+# IDEs
+.vscode/
+.idea/
+*.swp
